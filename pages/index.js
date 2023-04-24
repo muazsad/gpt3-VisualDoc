@@ -39,7 +39,7 @@ const callGenerateEndpoint = async () => {
             <h1>Virtual Doc</h1>
           </div>
           <div className="header-subtitle">
-            <h2>Not a real doctor. Entertainment purposes only</h2>
+            <h2>Enter symptoms Ex: /" headache, cough, runny nose /"</h2>
           </div>
         </div>
         {/* Add this code here*/}
